@@ -23,7 +23,7 @@ h1 {
     -webkit-background-clip: text;
     color: transparent;
     display: inline;
-    margin-bottom: 30px; /* Adds space between the heading and the button */
+    margin-bottom: 40px; /* Adds space between the heading and the button */
 }
 
 .button {
